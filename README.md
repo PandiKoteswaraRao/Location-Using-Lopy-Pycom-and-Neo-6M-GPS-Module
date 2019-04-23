@@ -6,3 +6,4 @@ Required Equipment :-
 4.Computer to Lopy Pycom connecting wire
 6.Neo 6M GPS Module
 7.Connecting Wires
+8.Lopy Pycom Antenna
